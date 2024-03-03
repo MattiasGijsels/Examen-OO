@@ -1,0 +1,15 @@
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.AssemblyInfoInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.AssemblyInfo.cs
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.sourcelink.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\bin\Debug\net8.0\CLI_EXAMEN.exe
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\bin\Debug\net8.0\CLI_EXAMEN.deps.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\bin\Debug\net8.0\CLI_EXAMEN.runtimeconfig.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\bin\Debug\net8.0\CLI_EXAMEN.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\bin\Debug\net8.0\CLI_EXAMEN.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\refint\CLI_EXAMEN.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\CLI_EXAMEN.genruntimeconfig.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\Examen Mattias Gijsels\ConsoleLineInterface\CLI_EXAMEN\CLI_EXAMEN\obj\Debug\net8.0\ref\CLI_EXAMEN.dll
